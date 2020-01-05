@@ -17,7 +17,9 @@ Is there a Chinese resident ID number consisting only of 0 and 2?
 
 因为中国居民身份证号码第18位是一个校验位，因此需要有一个函数来负责校验
 
-为了节省时间（其实这么简单一函数也用不了多久，就是懒），这个函数直接用了现有的函数 github.com/Im670/idcode_check
+为了节省时间（其实这么简单一函数也用不了多久，就是懒），这个函数直接用了现有的函数 
+
+github.com/Im670/idcode_check
 
 因为该仓库和本项目语言一致均为C语言并且功能简单，故采用
 
