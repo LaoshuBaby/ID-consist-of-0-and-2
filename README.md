@@ -1,10 +1,19 @@
 # ID-consist-of-0-and-2
+
 是否存在一个仅由0和2构成的中国居民身份证号?
+
 Is there a Chinese resident ID number consisting only of 0 and 2?
 
 ## 项目简介
 
-近日，央视新闻发布了一条微博称2020年02月02日是一个回文数的日期，因为2在互联网文化中有着非常丰富而广泛的含义，这个数字又是日期中非常难以等到的一个回文数，因此带有一定纪念意义。而网友则在评论区发挥创意构造了一个具有更多2和0的身份证号。
+近日，央视新闻发布了一条微博称2020年02月02日是一个回文数的日期，因为2在互联网文化中有着非常丰富而广泛的含义，这个数字又是日期中非常难以等到的一个回文数，因此带有一定纪念意义。
+
+![](Reference/Pic1.jpeg)
+
+而网友则在评论区发挥创意构造了一个具有更多2和0的身份证号。
+
+![](Reference/Pic2.jpeg)
+
 ```
 这天在吉林市昌邑区出生的宝宝的身份证号会是这样的：22020220200202XXXX🐶🐶
 ```
@@ -19,7 +28,7 @@ Is there a Chinese resident ID number consisting only of 0 and 2?
 
 为了节省时间（其实这么简单一函数也用不了多久，就是懒），这个函数直接用了现有的函数 
 
-github.com/Im670/idcode_check
+[Im670/idcode_check](http://github.com/Im670/idcode_check)
 
 因为该仓库和本项目语言一致均为C语言并且功能简单，故采用
 
